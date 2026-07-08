@@ -1,0 +1,25 @@
+Authentication
+
+User Management
+
+Role Management
+
+Permission Management
+
+Notification
+
+Dashboard
+
+Reports
+
+Settings
+
+Logs
+
+Audit
+
+Master Data
+
+Profile
+
+File Manager    

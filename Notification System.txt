@@ -1,0 +1,9 @@
+Email
+
+SMS
+
+Push Notification
+
+In-App Notification
+
+WhatsApp (future)

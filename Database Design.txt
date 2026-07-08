@@ -1,0 +1,17 @@
+Users
+
+Roles
+
+Permissions
+
+RolePermission
+
+UserRole
+
+AuditLogs
+
+Notifications
+
+Settings
+
+Files

@@ -1,0 +1,34 @@
+    Login
+
+    ↓
+
+    JWT Access Token
+
+    ↓
+
+    Refresh Token
+
+    ↓
+
+    Redis
+
+    ↓
+
+    Protected Routes
+
+
+Roles
+
+    Super Admin
+
+    Company Admin
+
+    Manager
+
+    Employee
+
+    Customer
+
+    Vendor
+
+    Guest
