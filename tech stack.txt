@@ -1,0 +1,66 @@
+Frontend
+    React
+    React Router
+    Redux Toolkit
+    React Query
+    Axios
+    Tailwind CSS
+    Material UI / Shadcn UI
+    React Hook Form
+    Zod Validation
+
+
+Backend
+    Express.js
+    JWT Authentication
+    Bcrypt
+    Multer
+    Nodemailer
+    Socket.io
+    Winston Logger
+    Helmet
+    Compression
+    CORS
+    Rate Limiter
+
+
+Database
+
+    MySQL
+
+    ORM
+
+        Sequelize
+
+        or
+
+        Prisma
+
+
+
+        Main personally Prisma recommend karunga.
+
+
+
+Storage
+
+    Images
+
+        AWS S3
+
+        or
+
+        MinIO
+
+
+
+Cache
+
+    Redis
+
+        Use cases
+
+            OTP
+            Sessions
+            Frequently used data
+            Rate limiting

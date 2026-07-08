@@ -1,0 +1,47 @@
+    Route
+
+    ↓
+
+    Middleware
+
+    ↓
+
+    Controller
+
+    ↓
+
+    Service
+
+    ↓
+
+    Repository
+
+    ↓
+
+    Database
+
+
+
+Example
+
+    POST /users
+
+    ↓
+
+    auth middleware
+
+    ↓
+
+    UserController
+
+    ↓
+
+    UserService
+
+    ↓
+
+    UserRepository
+
+    ↓
+
+    MySQL

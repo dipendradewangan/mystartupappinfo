@@ -1,0 +1,23 @@
+                    Internet
+                        │
+                  Load Balancer (Nginx)
+                        │
+                React Frontend (SPA)
+                        │
+               REST API (Express.js)
+                        │
+        ┌───────────────┼────────────────┐
+        │               │                │
+ Authentication     Business APIs     File Service
+        │               │                │
+        └───────────────┼────────────────┘
+                        │
+                 Service Layer
+                        │
+               Repository/Data Layer
+                        │
+                     MySQL DB
+                        │
+             Redis (Cache & Sessions)
+                        │
+          AWS S3 / MinIO (File Storage)
